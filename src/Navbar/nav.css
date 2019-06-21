@@ -1,0 +1,36 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    border:1px solid black;
+    justify-content:space-between;
+    align-items: center;
+    font-family: 'hind', 'karla',  sans-serif;
+    font-size: 1.3rem;
+    background-image: linear-gradient(to right, #00B4DB, #0083B0);
+
+
+}
+.navbar{
+    border:1px solid black;
+   
+
+}
+
+.shvili{
+    display:flex;
+    align-items: center;
+    
+}
+.shvili>*{
+    margin:auto 4px;
+    
+}
+
+.linkebi{
+    padding-left: 10px;
+    padding-right: 2px;
+    border-left:1px solid rgb(143, 143, 243);
+    text-shadow: 1px 1px 2px rgb(116, 114, 114);
+    color:rgba(0, 0, 0, 0.877)
+    
+}
