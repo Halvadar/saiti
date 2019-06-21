@@ -2,6 +2,7 @@
   "name": "saiti",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

@@ -1,0 +1,39 @@
+.Searchthingy{
+    background-image:url("asd.png");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height:400px;
+
+}
+
+.sadzebni::placeholder{
+    color: rgb(126, 122, 122);
+    font-size: 0.8rem;
+    
+}
+.sadzebni{
+    padding:2px;
+    padding-left: 5px;
+    border:1px solid grey;
+    box-shadow: 1px 1px 3px rgb(77, 75, 75);
+    height: 20px;
+    
+}
+
+.searchthingy-container{
+    position:relative;
+    height: 500px;
+    background: blue;
+    
+
+}
+.categories{
+    position:absolute;
+    background:red;
+    top:350px;
+    left: 10%;
+    z-index: 100;
+    width:100px;
+    height: 100px;
+}
