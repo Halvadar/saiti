@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/saiti/static/css/main.0e375fe8.chunk.css",
+    "main.js": "/saiti/static/js/main.8d1a63db.chunk.js",
+    "main.js.map": "/saiti/static/js/main.8d1a63db.chunk.js.map",
+    "runtime~main.js": "/saiti/static/js/runtime~main.bd450dd9.js",
+    "runtime~main.js.map": "/saiti/static/js/runtime~main.bd450dd9.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/saiti/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.00212eb8.chunk.js": "/saiti/static/js/2.00212eb8.chunk.js",
+    "static/js/2.00212eb8.chunk.js.map": "/saiti/static/js/2.00212eb8.chunk.js.map",
+    "index.html": "/saiti/index.html",
+    "precache-manifest.e117f3865734a9ec11fdb353e0e6a06e.js": "/saiti/precache-manifest.e117f3865734a9ec11fdb353e0e6a06e.js",
+    "service-worker.js": "/saiti/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/saiti/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.0e375fe8.chunk.css.map": "/saiti/static/css/main.0e375fe8.chunk.css.map",
+    "static/media/Searchthingy.css": "/saiti/static/media/asd.3f6fdca4.png",
+    "static/media/untitled.svg": "/saiti/static/media/untitled.3eecde31.svg"
+  }
+}
